@@ -1,39 +1,36 @@
-# Olá, Mundo! 👋 Eu sou a Larissa Pavan
+#  Larissa Pavan
+
+**`Software Engineer`**
+
+I am a software developer with a constant curiosity for learning and growth. I focus on writing clean and reusable code, and I enjoy collaborating and sharing knowledge with my friends. I am focused on building a solid career in the IT field and enjoy creating my own solutions for everyday challenges. Additionally, I am deeply committed to studying Artificial Intelligence and Machine Learning, continuously developing my skills to build intelligent, data-driven solutions.
+
 
 ---
 
-##  Sobre mim
+### 🧰 Languages and Tools
 
--  Cursando: Bacharelado em Ciência da Computação – 8º semestre  
--  Formação complementar: Desenvolvedora Full-Stack Java Web – **Generation Brasil**  
--  Interesses: **AI**, **desenvolvimento back-end** e **python**
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
----
 
-##  Estatísticas no GitHub
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
 
-![Estatísticas de contribuição](link-para-as-estatísticas)
-
----
+<br />
 
 ##  Vamos nos conectar?
  
 -  LinkedIn: [in/larissacpavan](https://www.linkedin.com/in/larissacpavan)  
--  Linktree: [linktr.ee/lapavan](https://linktr.ee/lapavan)  
-
----
-
- Gostaria de colaborar ou saber mais sobre meus projetos? Manda uma mensagem — será um prazer conversar!
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissacpavan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissacpavan&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
 
 ---
