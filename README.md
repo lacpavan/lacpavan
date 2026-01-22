@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I am a software developer with a constant curiosity for learning and growth. I focus on writing clean and reusable code, and I enjoy collaborating and sharing knowledge with my friends. I am focused on building a solid career in the IT field and enjoy creating my own solutions for everyday challenges. Additionally, I am deeply committed to studying Artificial Intelligence and Machine Learning, continuously developing my skills to build intelligent, data-driven solutions.
+I am a software developer with a constant curiosity for learning and growth. I focus on writing clean and reusable code, and I enjoy collaborating and sharing knowledge with my friends. I am focused on building a solid career in the IT field and enjoy creating my own solutions for everyday challenges. Additionally, I am deeply committed to studying Artificial Intelligence and Machine Learning, continuously developing my expertise to turn data into intelligent, real-world solutions.
 
 
 ---
