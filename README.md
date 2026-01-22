@@ -29,7 +29,8 @@ I am a software developer with a constant curiosity for learning and growth. I f
 
 ##  Let’s connect.
  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/> in/larissacpavan](https://www.linkedin.com/in/larissacpavan)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/larissacpavan)
+
 
 
 ---
