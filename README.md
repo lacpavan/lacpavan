@@ -27,8 +27,9 @@ I am a software developer with a constant curiosity for learning and growth. I f
 
 <br />
 
-##  Vamos nos conectar?
+##  Let’s connect.
  
--  LinkedIn: [in/larissacpavan](https://www.linkedin.com/in/larissacpavan)  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/> in/larissacpavan](https://www.linkedin.com/in/larissacpavan)
+
 
 ---
