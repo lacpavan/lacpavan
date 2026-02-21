@@ -1,8 +1,8 @@
 #  Larissa Pavan
 
-**`Software Engineer`**
+**`Data Engineer`**
 
-I am a software developer with a constant curiosity for learning and growth. I focus on writing clean and reusable code, and I enjoy collaborating and sharing knowledge with my friends. I am focused on building a solid career in the IT field and enjoy creating my own solutions for everyday challenges. Additionally, I am deeply committed to studying Artificial Intelligence and Machine Learning, continuously developing my expertise to turn data into intelligent, real-world solutions.
+I am a Data Engineer focused on building reliable and scalable data solutions, transforming data into strategic insights through well-structured pipelines and clean, efficient, reusable code. I am developing a solid career in the data ecosystem, supporting analytics, machine learning, and data-driven decision-making, while continuously expanding my knowledge in Artificial Intelligence to create impactful, real-world applications.
 
 
 ---
