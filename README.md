@@ -1,10 +1,10 @@
 #  Larissa Pavan
 
-**`Software Developer`**
+**`Machine Learning Engineer | AI & Data Enthusiast`**
 
-I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. 
+I'm a Machine Learning and Software Engineering enthusiast with a strong interest in building intelligent systems and data-driven solutions. I enjoy working with Python, data analysis, and machine learning to extract insights and create scalable applications.
 
-
+My goal is to develop solutions that combine software engineering and artificial intelligence to solve real-world problems. I'm always learning, experimenting with new technologies, and improving my skills in machine learning, data, and cloud-based systems.
 
 ---
 
