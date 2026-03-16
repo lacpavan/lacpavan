@@ -35,7 +35,7 @@ I'm a software developer with a curiosity for learning and improving. I focus on
  
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/larissacpavan)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />](https://www.kaggle.com/larissapavan).
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="30"/>](https://www.kaggle.com/larissapavan).
           
 
 
