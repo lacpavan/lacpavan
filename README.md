@@ -35,8 +35,8 @@ I'm a software developer with a curiosity for learning and improving. I focus on
  
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/larissacpavan)
 
-[https://road-to-kaggle-grandmaster.vercel.app/api/simple/{larissapavan}](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{larissapavan}/{category}
-https://road-to-kaggle-grandmaster.vercel.app/api/badges/{larissapavan}/{category}/light)
+[https://road-to-kaggle-grandmaster.vercel.app/api/simple/larissapavan](https://road-to-kaggle-grandmaster.vercel.app/api/badges/larissapavan/{category}
+https://road-to-kaggle-grandmaster.vercel.app/api/badges/larissapavan/{category}/light)
 
 
 
