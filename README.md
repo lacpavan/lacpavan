@@ -35,7 +35,7 @@ My goal is to develop solutions that combine software engineering and artificial
  
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/larissacpavan)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="30"/>](https://www.kaggle.com/larissapavan).
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="30"/>](https://www.kaggle.com/larissapavan)
           
 
 
