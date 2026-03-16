@@ -1,10 +1,21 @@
-#  Larissa Pavan
+# Hi, I'm Larissa 👋
 
-**`Machine Learning Engineer | AI & Data Enthusiast`**
+**`Machine Learning Engineer in progress with a background in Software Engineering and Data.`**
 
-I'm a Machine Learning and Software Engineering enthusiast with a strong interest in building intelligent systems and data-driven solutions. I enjoy working with Python, data analysis, and machine learning to extract insights and create scalable applications.
+🎓 B.Sc. in Computer Science – Estácio de Sá  
+🤖 AI Technology Student – USCS  
+💼 Former IT Intern – Mercedes-Benz Trucks & Buses  
 
-My goal is to develop solutions that combine software engineering and artificial intelligence to solve real-world problems. I'm always learning, experimenting with new technologies, and improving my skills in machine learning, data, and cloud-based systems.
+I’m interested in Machine Learning, Data Science and building intelligent systems that solve real business problems.
+
+---
+
+## 📚 Currently Learning
+
+Machine Learning Engineering  
+Deep Learning  
+MLOps and Model Deployment  
+Advanced Python for Data
 
 ---
 
