@@ -2,6 +2,8 @@
 
 **`Machine Learning Engineer · Artificial Intelligence`**
 
+---
+
 🎓 B.Sc. in Computer Science — Estácio de Sá
 📚 Associate Degree in Artificial Intelligence — USCS (in progress)
 💼 Former IT Intern — Mercedes-Benz Caminhões e Ônibus
@@ -38,7 +40,8 @@ Docker · PostgreSQL · TensorFlow
 ## Featured Projects
 
 **🥊 UFC Winner Predictor**
-ML model to predict UFC fight winners using pre-fight statistics, comparative feature engineering, and temporal train/test split to prevent data leakage. Achieves 71% accuracy and 0.76 ROC-AUC, outperforming the historical Red Corner baseline by ~13 percentage points.
+
+End-to-end machine learning project built to predict UFC fight winners using pre-fight fighter statistics, comparative feature engineering, and a temporal train/test split to reduce data leakage risk. The final model achieved 74.7% accuracy and 0.824 ROC-AUC, outperforming simpler baseline models such as Dummy Classifier, Logistic Regression, and Random Forest.
 
 🔗 [github.com/lacpavan/ufcpredictor](https://github.com/lacpavan/ufcpredictor) · 🚀 [Live demo](https://ufc-predictor.streamlit.app)
 
