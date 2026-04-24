@@ -21,18 +21,23 @@ Hands-on experience with API integration, application security, and SQL-based da
 ## Tech Stack
 
 **Machine Learning**
+
 Scikit-learn · Pandas · NumPy · Feature Engineering · SHAP · Temporal Validation
 
 **Backend & API**
+
 Python · FastAPI · Java · Spring Boot · REST APIs · JPA
 
 **Data EDA**
+
 Model Evaluation · Matplotlib · Seaborn · SQL
 
 **Tools & Cloud Streamlit**
+
 Git · Docker · PostgreSQL · AWS · Swagger
 
 **Exploring**
+
 TensorFlow · System Design · ML Service Integration
 
 ---
@@ -50,6 +55,7 @@ End-to-end machine learning pipeline for predicting UFC fight outcomes using pre
 Hybrid recommendation platform for technology books, combining Python-based recommendation logic with a Java Spring Boot backend. The project includes item-based recommendation workflows, interactive exploration with Streamlit, and a production-style REST API for users, books, ratings, reading history, and recommendation orchestration. Built with DTOs, service and repository layers, PostgreSQL integration, Docker Compose, Swagger documentation, and a foundation for future ML microservice integration.
 
 🔗 [github.com/lacpavan/nextread-ai](https://github.com/lacpavan/nextread-ai)
+
 ---
 
 ### Connect with me:
