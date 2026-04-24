@@ -41,7 +41,8 @@ Docker · PostgreSQL · TensorFlow
 
 **🥊 UFC Winner Predictor**
 
-End-to-end machine learning project built to predict UFC fight winners using pre-fight fighter statistics, comparative feature engineering, and a temporal train/test split to reduce data leakage risk. The final model achieved 74.7% accuracy and 0.824 ROC-AUC, outperforming simpler baseline models such as Dummy Classifier, Logistic Regression, and Random Forest.
+End-to-end machine learning pipeline for predicting UFC fight outcomes using pre-fight fighter statistics. Features difference-based comparative engineering, temporal train/test split (train ≤ 2022 / test ≥ 2023) to prevent data leakage, and multi-model benchmarking across Dummy Classifier, Logistic Regression, Random Forest, XGBoost, and HistGradientBoosting.
+The final model achieved 74.7% accuracy and 0.824 ROC-AUC, with SHAP-based explainability and a FastAPI inference endpoint.
 
 🔗 [github.com/lacpavan/ufcpredictor](https://github.com/lacpavan/ufcpredictor) · 🚀 [Live demo](https://ufc-predictor.streamlit.app)
 
