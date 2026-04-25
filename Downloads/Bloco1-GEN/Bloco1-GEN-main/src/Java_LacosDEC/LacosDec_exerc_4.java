@@ -1,0 +1,22 @@
+package Java_LacosDEC;
+
+import java.util.Scanner;
+
+public class LacosDec_exerc_4 {
+
+	public static void main(String[] args) {
+		
+		Scanner leia = new Scanner(System.in);
+		
+		double num;
+				
+		System.out.print("Entre com um número: ");
+		num = leia.nextFloat();
+
+		if((num%2==0)) {
+			System.out.printf("O número %.1f é par e sua raíz quadrada é %.2f",num,Math.sqrt(num));
+		} else {
+			System.out.println("O número "+num+" é ímpar e elevado ao quadrado é "+Math.pow(num, 2));
+		}
+	}
+}
