@@ -1,59 +1,61 @@
 # Hi, I'm Larissa 👋
 
-**`Machine Learning Engineer · Artificial Intelligence`**
+**AI Engineer · Machine Learning · Backend Systems**
+
+Building intelligent, data-driven applications from model to production.
 
 ---
 
-🎓 B.Sc. in Computer Science - Estácio de Sá  
-📚 Associate Degree in Artificial Intelligence - USCS (in progress)  
-💼 Former IT Intern - Mercedes-Benz Caminhões e Ônibus 
-➡️ https://lcp-leads.netlify.app/
+## 🎓  
+B.Sc. in Computer Science — Estácio de Sá  
+Associate Degree in Artificial Intelligence — USCS (in progress)  
+
+## 💼  
+Former IT Intern — Mercedes-Benz Caminhões & Ônibus  
+
+🔗 https://lcp-leads.netlify.app/
 
 ---
 
-## About me
+## About Me
 
-I build intelligent systems that learn, predict, and support decision-making, bridging backend engineering and machine learning to create applications that are both functional and data-driven.
+I build data-driven systems that support real-world decision-making, combining backend engineering with machine learning.
 
-Hands-on experience with API integration, application security, and SQL-based data analysis in large-scale production environments. Currently focused on machine learning projects in Python, predictive modeling, feature engineering, and evolving these solutions into production-oriented architectures with Java Spring Boot, REST APIs, and PostgreSQL-backed services.
+I have hands-on experience working with APIs, system integration, and large-scale SQL data in production environments. This background shaped how I design solutions: not just models, but systems that are reliable, scalable, and aligned with business needs.
+
+Currently, I focus on developing machine learning applications in Python, from data processing and modeling to deployment through REST APIs and production-oriented architectures.
 
 ---
 
 ## Tech Stack
 
-**Machine Learning**
+Machine Learning: Scikit-learn · XGBoost · Feature Engineering · Model Evaluation
 
-Scikit-learn · Pandas · NumPy · Feature Engineering · SHAP · Temporal Validation
+Data: Pandas · NumPy · SQL
 
-**Backend & API**
+Backend: Python · FastAPI · Java · Spring Boot · REST APIs
 
-Python · FastAPI · Java · Spring Boot · REST APIs · JPA
-
-**Data EDA**
-
-Model Evaluation · Matplotlib · Seaborn · SQL
-
-**Tools & Cloud Streamlit**
-
-Git · Docker · PostgreSQL · AWS · Swagger
-
-**Exploring**
-
-TensorFlow · System Design · ML Service Integration
+Tools: Git · Docker · PostgreSQL · AWS · Streamlit
 
 ---
 
 ## Featured Projects
 
-**🥊 UFC Winner Predictor**
+### 🥊 UFC Winner Predictor
 
-End-to-end machine learning pipeline for predicting UFC fight outcomes using pre-fight fighter statistics. Features difference-based comparative engineering, temporal train/test split (train ≤ 2022 / test ≥ 2023) to prevent data leakage, and multi-model benchmarking across Dummy Classifier, Logistic Regression, Random Forest, XGBoost, and HistGradientBoosting. The final model achieved 74.7% accuracy and 0.824 ROC-AUC, with SHAP-based explainability and a FastAPI inference endpoint.
+End-to-end machine learning pipeline to predict UFC fight outcomes using pre-fight data.
+
+Designed with comparative feature engineering and a strict temporal validation strategy to simulate real-world predictions. Benchmarked multiple models and achieved **74.7% accuracy and 0.824 ROC-AUC**, with SHAP-based explainability and a deployed FastAPI inference service.
 
 🔗 [github.com/lacpavan/ufcpredictor](https://github.com/lacpavan/ufcpredictor) · 🚀 [Live demo](https://ufc-predictor.streamlit.app)
 
-**📚 NextRead-AI**
+---
 
-Hybrid recommendation platform for technology books, combining Python-based recommendation logic with a Java Spring Boot backend. The project includes item-based recommendation workflows, interactive exploration with Streamlit, and a production-style REST API for users, books, ratings, reading history, and recommendation orchestration. Built with DTOs, service and repository layers, PostgreSQL integration, Docker Compose, Swagger documentation, and a foundation for future ML microservice integration.
+### 📚 NextRead AI
+
+Recommendation system for technology books with a hybrid architecture combining machine learning logic and backend engineering.
+
+Includes personalized recommendation workflows, interactive exploration via Streamlit, and a production-style REST API built with Spring Boot. Structured with service layers, DTOs, and database integration, designed for scalability and future ML service expansion.
 
 🔗 [github.com/lacpavan/nextread-ai](https://github.com/lacpavan/nextread-ai)
 
