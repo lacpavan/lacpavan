@@ -7,6 +7,7 @@
 🎓 B.Sc. in Computer Science - Estácio de Sá  
 📚 Associate Degree in Artificial Intelligence - USCS (in progress)  
 💼 Former IT Intern - Mercedes-Benz Caminhões e Ônibus
+➡️ https://lcp-leads.netlify.app/
 
 ---
 
