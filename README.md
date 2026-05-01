@@ -7,11 +7,11 @@ Building intelligent, data-driven applications from model to production.
 ---
 
 ## 🎓  
-B.Sc. in Computer Science — Estácio de Sá  
-Associate Degree in Artificial Intelligence — USCS (in progress)  
+B.Sc. in Computer Science - Estácio de Sá  
+Associate Degree in Artificial Intelligence - USCS (in progress)  
 
 ## 💼  
-Former IT Intern — Mercedes-Benz Caminhões & Ônibus  
+Former IT Intern - Mercedes-Benz Caminhões & Ônibus  
 
 🔗 https://lcp-leads.netlify.app/
 
