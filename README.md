@@ -1,6 +1,6 @@
 # Hi, I'm Larissa 👋
 
-**AI Engineer · Machine Learning · Backend Systems**
+**Python Developer | Backend & Machine Learning**
 
 Building intelligent, data-driven applications from model to production.
 
@@ -19,23 +19,27 @@ Former IT Intern - Mercedes-Benz Caminhões & Ônibus
 
 ## About Me
 
-I build data-driven systems that support real-world decision-making, combining backend engineering with machine learning.
+I build systems that process data and support real-world decisions.
 
-I have hands-on experience working with APIs, system integration, and large-scale SQL data in production environments. This background shaped how I design solutions: not just models, but systems that are reliable, scalable, and aligned with business needs.
+Currently working as a Python Developer, developing backend solutions, APIs, and data-driven applications. I have hands-on experience with production systems, integrating services, handling data pipelines, and applying machine learning in practical scenarios.
 
-Currently, I focus on developing machine learning applications in Python, from data processing and modeling to deployment through REST APIs and production-oriented architectures.
+My focus is on building intelligent systems that move from data to decision.
 
 ---
 
 ## Tech Stack
 
-Machine Learning: Scikit-learn · XGBoost · Feature Engineering · Model Evaluation
+**Backend:** Python · FastAPI · Flask · REST APIs
 
-Data: Pandas · NumPy · SQL
+**Data & ML:** Pandas · NumPy · Scikit-learn · Feature Engineering · Model Evaluation
 
-Backend: Python · FastAPI · Java · Spring Boot · REST APIs
+**Databases:** PostgreSQL · MySQL · SQLite · SQL
 
-Tools: Git · Docker · PostgreSQL · AWS · Streamlit
+**Systems & Integration:** API Integration · Data Pipelines · Data Processing
+
+**Tools:** Git · Docker · Swagger · AWS
+
+**Frontend (for apps):** Streamlit · React · TypeScript
 
 ---
 
@@ -48,16 +52,6 @@ End-to-end machine learning pipeline to predict UFC fight outcomes using pre-fig
 Designed with comparative feature engineering and a strict temporal validation strategy to simulate real-world predictions. Benchmarked multiple models and achieved **74.7% accuracy and 0.824 ROC-AUC**, with SHAP-based explainability and a deployed FastAPI inference service.
 
 🔗 [github.com/lacpavan/ufcpredictor](https://github.com/lacpavan/ufcpredictor) · 🚀 [Live demo](https://ufc-predictor.streamlit.app)
-
----
-
-### 📚 NextRead AI
-
-Recommendation system for technology books with a hybrid architecture combining machine learning logic and backend engineering.
-
-Includes personalized recommendation workflows, interactive exploration via Streamlit, and a production-style REST API built with Spring Boot. Structured with service layers, DTOs, and database integration, designed for scalability and future ML service expansion.
-
-🔗 [github.com/lacpavan/nextread-ai](https://github.com/lacpavan/nextread-ai)
 
 ---
 
