@@ -1,22 +1,22 @@
 # Hi, I'm Larissa 👋
 
-**Junior Python Developer | Backend & Machine Learning**
+**Python Developer | Artificial Intelligence | Backend & Machine Learning**
 
-Building intelligent and data-driven applications, from APIs to machine learning solutions.
+Building intelligent systems that combine backend engineering, APIs, and machine learning.
 
 ---
 
 ## 🎓 Education
 
-B.Sc. in Computer Science — Estácio de Sá  
-Associate Degree in Artificial Intelligence — USCS (in progress)
+B.Sc. in Computer Science - Estácio de Sá  
+Associate Degree in Artificial Intelligence - USCS (in progress)
 
 ---
 
 ## 💼 Experience
 
-Junior Python Developer — Artificial Intelligence Department  
-Former IT Intern — Mercedes-Benz Caminhões & Ônibus
+**Python Developer - Artificial Intelligence Team at L5 Networks**  
+**Former IT Intern - Mercedes-Benz Caminhões & Ônibus**
 
 ---
 
@@ -29,12 +29,14 @@ https://lcp-leads.netlify.app/
 
 ## About Me
 
-```markdown
-I build systems that process data and support real-world decisions.
+```
+# About Me
 
-Currently working as a Junior Python Developer in the Artificial Intelligence field, developing backend solutions, APIs, and data-driven applications. I have hands-on experience with production systems, service integration, data pipelines, and applying machine learning to practical scenarios.
+I build intelligent systems that integrate backend engineering, APIs, and machine learning to solve real-world problems.
 
-My focus is on building intelligent systems that turn data into decision-making.
+Currently working as a Python Developer in the Artificial Intelligence field, developing backend applications, REST APIs, and AI-driven solutions. My experience includes production systems, service integration, data processing, and machine learning applied to business scenarios.
+
+I’m especially interested in AI Engineering, LLM integrations, intelligent automation, and scalable backend systems for data-driven applications.
 ```
 
 
