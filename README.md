@@ -42,20 +42,25 @@ I’m especially interested in AI Engineering, LLM integrations, intelligent aut
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-**Backend:** Python · FastAPI · Flask · REST APIs
+### Backend & APIs
+Python · FastAPI · Flask · REST APIs · SQLAlchemy
 
-**Data & ML:** Pandas · NumPy · Scikit-learn · Feature Engineering · Model Evaluation
+### Artificial Intelligence & Machine Learning
+Scikit-learn · Pandas · NumPy · Feature Engineering · Model Evaluation · LLMs · NLP
 
-**Databases:** PostgreSQL · MySQL · SQLite · SQL
+### Data & Databases
+PostgreSQL · MySQL · SQLite · SQL · Data Processing · Data Pipelines
 
-**Systems & Integration:** API Integration · Data Pipelines · Data Processing
+### Systems & Integration
+API Integration · Webservices · Backend Development
 
-**Tools:** Git · Docker · Swagger · AWS
+### Tools & Cloud
+Git · Docker · Swagger · AWS
 
-**Frontend (for apps):** Streamlit · React · TypeScript
-
+### Frontend (for apps)
+Streamlit · React · TypeScript
 ---
 
 ## Featured Projects
