@@ -15,8 +15,8 @@ Associate Degree in Artificial Intelligence - USCS (in progress)
 
 ## 💼 Experience
 
-**Python Developer - Artificial Intelligence Team at L5 Networks**  
-**Former IT Intern - Mercedes-Benz Caminhões & Ônibus**
+Python Developer | Artificial Intelligence Team at L5 Networks
+Former IT Intern in IT Sales & After-Sales Systems at Mercedes-Benz Caminhões & Ônibus
 
 ---
 
