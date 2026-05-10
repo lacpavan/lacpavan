@@ -29,38 +29,35 @@ https://lcp-leads.netlify.app/
 
 ## About Me
 
-```
-# About Me
 
 I build intelligent systems that integrate backend engineering, APIs, and machine learning to solve real-world problems.
 
 Currently working as a Python Developer in the Artificial Intelligence field, developing backend applications, REST APIs, and AI-driven solutions. My experience includes production systems, service integration, data processing, and machine learning applied to business scenarios.
 
 I’m especially interested in AI Engineering, LLM integrations, intelligent automation, and scalable backend systems for data-driven applications.
-```
-
 
 ---
 
 # Tech Stack
 
-### Backend & APIs
-Python · FastAPI · Flask · REST APIs · SQLAlchemy
-
 ### Artificial Intelligence & Machine Learning
-Scikit-learn · Pandas · NumPy · Feature Engineering · Model Evaluation · LLMs · NLP
+Python · Scikit-learn · Pandas · NumPy · LLMs · NLP · Feature Engineering · Model Training · Model Inference · Model Evaluation
 
-### Data & Databases
-PostgreSQL · MySQL · SQLite · SQL · Data Processing · Data Pipelines
+### Backend & APIs
+FastAPI · Flask · RESTful APIs · SQLAlchemy · API Development · Webservices · Backend Systems
+
+### Data Engineering & Databases
+SQL · PostgreSQL · MySQL · SQLite · Data Processing · Data Pipelines · ETL
 
 ### Systems & Integration
-API Integration · Webservices · Backend Development
+API Integration · System Integration · Intelligent Systems · Business Applications
 
-### Tools & Cloud
-Git · Docker · Swagger · AWS
+### Cloud & Tools
+AWS · Docker · Git · Swagger · Linux
 
-### Frontend (for apps)
+### Frontend & Interfaces
 Streamlit · React · TypeScript
+
 ---
 
 ## Featured Projects
