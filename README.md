@@ -74,6 +74,6 @@ Currently pursuing an Associate Degree in **Artificial Intelligence at USCS**, w
 ---
 
 <p align="center">
-  <i>Open to opportunities in AI Engineering, ML Engineering, and Backend Development.</i><br/>
+  <i>Let's connect.</i><br/>
   <a href="https://www.linkedin.com/in/larissacpavan">Let's connect on LinkedIn</a>
 </p>
