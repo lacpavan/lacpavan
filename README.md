@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissacpavan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=netlify&logoColor=white)](https://lcp-leads.netlify.app/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ufc-predictor.streamlit.app)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://ufcfightpredictor.vercel.app/)
 
 ---
 
@@ -43,7 +43,7 @@ Currently pursuing an A.Sc. in **Artificial Intelligence at USCS**, with a B.Sc.
 - FastAPI inference endpoint + Streamlit app deployed to production
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lacpavan/ufcpredictor)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ufc-predictor.streamlit.app)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://ufcfightpredictor.vercel.app/)
 
 
 ---
