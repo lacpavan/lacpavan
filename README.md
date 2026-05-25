@@ -34,13 +34,13 @@ Currently pursuing an A.Sc. in **Artificial Intelligence at USCS**, with a B.Sc.
 ## Featured Projects
 
 ### 🥊 UFC Winner Predictor
-> End-to-end ML pipeline to predict UFC fight outcomes using pre-fight data.
+> A production-ready machine learning project that predicts UFC fight outcomes using historical fighter data, feature engineering, explainable AI, and a deployed inference pipeline.
 
-- Temporal train/test split (train ≤ 2022 / test ≥ 2023) to simulate real-world prediction conditions
-- Benchmarked multiple classifiers — `HistGradientBoostingClassifier` outperformed the red-corner historical baseline by **~13 percentage points**
-- **74.7% accuracy · 0.82 ROC-AUC**
-- SHAP-based explainability integrated into the inference pipeline
-- FastAPI inference endpoint + Streamlit app deployed to production
+- Real-world temporal validation strategy
+- Multi-model benchmarking and performance comparison
+- 74.7% accuracy · 0.82 ROC-AUC
+- SHAP-powered model explainability
+- FastAPI backend with deployed frontend integration
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lacpavan/ufcpredictor)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://ufcfightpredictor.vercel.app/)
