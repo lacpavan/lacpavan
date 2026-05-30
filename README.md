@@ -3,14 +3,7 @@
 **`Python Developer `**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissacpavan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=netlify&logoColor=white)](https://lcp-leads.netlify.app/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://ufcfightpredictor.vercel.app/)
-
----
-
-## Studies
-
-Currently pursuing an A.Sc. in **Artificial Intelligence at USCS**, with a B.Sc. in Computer Science from Estácio de Sá.
 
 ---
 
