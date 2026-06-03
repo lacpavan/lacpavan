@@ -1,39 +1,21 @@
-#  Larissa Pavan
+# Larissa Pavan
 
-**`Python Developer `**
+**Python Developer • AI • Backend**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissacpavan)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://ufcfightpredictor.vercel.app/)
+📍 São Paulo, Brazil
 
----
+## Tech
 
-## Tech Stack
+`Python` `FastAPI` `Flask` `SQL` `AWS` `Docker`
+`Machine Learning` `LLMs` `Celery`
+`n8n` `Git`
 
-**AI & Machine Learning**
-`Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `SHAP` `sentence-transformers` `FAISS` `Joblib`
+## Projects
 
-**Backend & APIs**
-`FastAPI` `Flask` `SQLAlchemy` `Uvicorn` `Pytest` `REST APIs`
+🥊 UFC Winner Predictor  
+🎓 EduBot  
 
-**Data & Databases**
-`PostgreSQL` `MySQL` `T-SQL` `SQL`
+## Links
 
-**Deploy & Infrastructure**
-`Docker` `AWS` `Vercel` `Render` `Streamlit` `Git`
-
-**Research**
-`spaCy` `NLTK` `Word Embeddings` `NLP`
-
----
-
-## Background
-
-| | |
-|---|---|
-| 💼 Currently | Python Developer · L5 Networks (AI team) |
-| 🎓 Education | A.Sc. Artificial Intelligence · USCS |
-| 🏫 Degree | B.Sc. Computer Science · Estácio de Sá |
-| 🏢 Previously | IT Intern · Mercedes-Benz Caminhões & Ônibus |
-| 📍 Location | São Paulo, BR |
-
----
+- LinkedIn: linkedin.com/in/larissacpavan
+- Portfolio: [lacpavan.github.io](https://lacpavan.github.io/)
