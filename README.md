@@ -12,10 +12,10 @@
 
 ## Projects
 
-🥊 UFC Winner Predictor  
-🎓 EduBot  
+🥊 UFC Winner Predictor [Link Demo](https://ufcfightpredictor.vercel.app/)
+🎓 EduBot [Link Demo](https://edubot-projeto-academico.vercel.app/)
 
 ## Links
 
-- LinkedIn: linkedin.com/in/larissacpavan
+- LinkedIn: [linkedin.com/in/larissacpavan](linkedin.com/in/larissacpavan)
 - Portfolio: [lacpavan.github.io](https://lacpavan.github.io/)
