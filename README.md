@@ -27,4 +27,4 @@
 ## Links
 
 - LinkedIn: [linkedin.com/in/larissacpavan](linkedin.com/in/larissacpavan)
-- Portfolio: [lacpavan.github.io](https://lacpavan.github.io/)
+- Portfolio: [larissapavan.github.io](https://larissapavan.github.io/)
