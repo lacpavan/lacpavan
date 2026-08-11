@@ -1,30 +1,19 @@
 # Larissa Pavan
 
-**Python Developer • AI • Backend**
+**Python Developer | AI | Backend**
+
+I build backend applications, AI solutions, and automations using Python.
 
 ## Tech Stack
 
-### AI
-`Python` `Machine Learning` `LLMs`
+`Python` `AI` `Machine Learning` `LLMs` `NLP` `QA` `API`  
+`SQL` `AI Agents` `AWS` `Docker` `Git` `n8n`
 
-### Backend
-`FastAPI` `Flask` `Celery`
+## Featured Projects
 
-### Data
-`SQL` `PostgreSQL`
-
-### Cloud
-`AWS` `Docker` `Git`
-
-### Automation
-`n8n`
-
-## Projects
-
-- UFC Winner Predictor [Link Demo](https://ufcfightpredictor.vercel.app/)
-- EduBot [Link Demo](https://edubot-projeto-academico.vercel.app/)
+- [UFC Winner Predictor](https://ufcfightpredictor.vercel.app/)
+- [EduBot](https://edubot-projeto-academico.vercel.app/)
 
 ## Links
 
-- LinkedIn: [linkedin.com/in/larissacpavan](linkedin.com/in/larissacpavan)
-- Portfolio: [larissapavan.github.io](https://larissapavan.github.io/)
+[LinkedIn](https://linkedin.com/in/larissacpavan) | [Portfolio](https://larissapavan.github.io/)
