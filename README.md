@@ -13,6 +13,7 @@ I build backend applications, AI solutions, and automations using Python.
 
 - [UFC Winner Predictor](https://ufcfightpredictor.vercel.app/)
 - [EduBot](https://edubot-projeto-academico.vercel.app/)
+- [GELC U S C S • Undergraduate Research • Computational Linguistics • NLP](https://larissapavan.github.io/gelc-uscs/)
 
 ## Links
 
