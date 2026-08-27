@@ -17,5 +17,5 @@ I build backend applications, AI solutions, and automations using Python.
 
 ## Links
 
-[LinkedIn](https://linkedin.com/in/larissacpavan) | [Portfolio](https://larissapavan.github.io/)
+[LinkedIn](https://linkedin.com/in/larissacpavan) | [Portfolio](https://larissapavan.github.io/) 
 [Kaggle](https://www.kaggle.com/larissapavan) | [huggingface](https://huggingface.co/larissapavan)
